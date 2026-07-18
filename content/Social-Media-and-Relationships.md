@@ -11,7 +11,7 @@ Us teenagers have now built this idea of "situationships." Sounds funny already,
 
 In terms of how many relationships actually form (I'm talking long-term, not a 2-month contract), I'd say slim-to-none. And if they did, then congratulations -- I do hear stories that some even lead to marriage. But for now, I am not convinced, and do not know any personally. 
 
-Ultimately, I can go on and on about this topic of love and social media. I believe it's changed the game of love for the worse. It must change, and we shouldn't rely on social media for us to find the right partner. It is slowly damaging us, we now only look for the right looks and proportions, character and values isn't in the picture. 
+Ultimately, I can go on and on about this topic of love and social media. I believe it's changed the game of love for the worse. It must change for the better, and we shouldn't rely on social media for us to find the right partner. It is slowly damaging us, we now only look for the right looks and proportions, character and values isn't in the picture. 
 
 I'm guilty of this too. As a teen myself, I literally grew up in the age of social media; it is all I know. I've been in countless so-called situationships, talking stages. All I can say is, it is mentally draining, and you must release yourself before matters get worse (obsessions -- social media makes it easy to reconnect with your ex).
 
