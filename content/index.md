@@ -1,8 +1,6 @@
 ---
-title: Headspace 
+title: Before my 20th Birthday 
 ---
-## Before my 20th Birthday 
-
 As i'm gradually approaching my 20th birthday, I've come to realize that I have a lot to give. My experiences have been unique to my own self, therefore it must be worth to share to the world. With that, I present to you my digital notebook; my "headspace."
 
 **Headspace** will include a series of notes:
