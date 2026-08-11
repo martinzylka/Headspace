@@ -1,6 +1,8 @@
 ---
 title: 
 ---
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 As i'm gradually approaching my 20th birthday, I've come to realize that I have a lot to give. My experiences have been unique to my own self, therefore it must be worth to share to the world. With that, I present to you my digital notebook.
 
 It will include a series of notes:
@@ -31,4 +33,3 @@ Please note that each piece of my writing is solely based through my experiences
 I come to realize that we humans will never share the exact same perspective on the world. An economist will view the world entirely differently than a poet, and a doctor will presumably view existence differently than a priest. In truth, the only way we can widen our vision is to seek **interpersonal [[relationships]]** and observe each individual's perspective. It is in this widening that we become closer to peace.  
 
 > *"The end of a matter is better than its beginning, and patience is better than pride."* - Ecclesiastes 7:8 (NIV)
-
