@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: martinzylka.github.io/Headspace
+  baseUrl: headspace.mzylka.workers.dev
   ignorePatterns:
     - private
     - templates
