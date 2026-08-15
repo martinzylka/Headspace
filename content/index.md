@@ -41,6 +41,7 @@
     font-weight: 700;
     font-size: 3.4rem;
     margin-left: 0.2rem;
+    margin-right: 0.2rem;
     animation: wordArriveAccent 0.7s ease-out forwards;
   }
   @keyframes wordArrive {
@@ -71,6 +72,7 @@
     .intro-highlight {
       font-size: 2.3rem;
       margin-left: 0.15rem;
+      margin-right: 0.15rem;
     }
   }
 </style>
