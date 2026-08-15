@@ -20,8 +20,13 @@
   }
   #intro-title {
     display: flex;
+    flex-wrap: wrap;
     gap: 0.6rem;
     align-items: baseline;
+    justify-content: center;
+    text-align: center;
+    padding: 0 1.5rem;
+    margin: 0;
     font-size: 3rem;
     color: white;
     animation: sentenceVanish 0.8s ease-in-out 2.2s forwards;
@@ -55,6 +60,18 @@
   @keyframes introFade {
     0%   { opacity: 1; }
     100% { opacity: 0; visibility: hidden; }
+  }
+
+  @media (max-width: 600px) {
+    #intro-title {
+      font-size: 2rem;
+      gap: 0.45rem;
+      padding: 0 1rem;
+    }
+    .intro-highlight {
+      font-size: 2.3rem;
+      margin-left: 0.15rem;
+    }
   }
 </style>
 
