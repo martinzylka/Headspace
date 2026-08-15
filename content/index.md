@@ -1,7 +1,72 @@
+<div id="intro-overlay">
+  <h1 id="intro-title">
+    <span class="intro-word" style="animation-delay: 0.2s;">Before</span>
+    <span class="intro-word" style="animation-delay: 0.6s;">my</span>
+    <span class="intro-word intro-highlight" style="animation-delay: 1s;">20th</span>
+  </h1>
+</div>
+
+<style>
+  #intro-overlay {
+    position: fixed;
+    top: 0; left: 0;
+    width: 100vw; height: 100vh;
+    background: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+    animation: introFade 0.7s ease-in-out 3.1s forwards;
+  }
+  #intro-title {
+    display: flex;
+    gap: 0.6rem;
+    align-items: baseline;
+    font-size: 3rem;
+    color: white;
+    animation: sentenceVanish 0.8s ease-in-out 2.2s forwards;
+  }
+  .intro-word {
+    display: inline-block;
+    opacity: 0;
+    animation: wordArrive 0.6s ease-out forwards;
+  }
+  .intro-highlight {
+    color: #7b97aa;
+    font-weight: 700;
+    font-size: 3.4rem;
+    margin-left: 0.2rem;
+    animation: wordArriveAccent 0.7s ease-out forwards;
+  }
+  @keyframes wordArrive {
+    0%   { opacity: 0; transform: scale(0.85); text-shadow: none; }
+    60%  { opacity: 1; transform: scale(1.02); text-shadow: 0 0 12px rgba(255,255,255,0.6); }
+    100% { opacity: 1; transform: scale(1); text-shadow: none; }
+  }
+  @keyframes wordArriveAccent {
+    0%   { opacity: 0; transform: scale(0.85); text-shadow: none; }
+    60%  { opacity: 1; transform: scale(1.06); text-shadow: 0 0 18px rgba(123,151,170,0.9), 0 0 34px rgba(123,151,170,0.5); }
+    100% { opacity: 1; transform: scale(1); text-shadow: 0 0 10px rgba(123,151,170,0.45); }
+  }
+  @keyframes sentenceVanish {
+    0%   { opacity: 1; }
+    100% { opacity: 0; }
+  }
+  @keyframes introFade {
+    0%   { opacity: 1; }
+    100% { opacity: 0; visibility: hidden; }
+  }
+</style>
+
+<script>
+  if (sessionStorage.getItem('introShown')) {
+    document.getElementById('intro-overlay').style.display = 'none';
+  } else {
+    sessionStorage.setItem('introShown', 'true');
+  }
+</script>
+
 ---
-title: 
----
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 As i'm gradually approaching my 20th birthday, I've come to realize that I have a lot to give. My experiences have been unique to my own self, therefore it must be worth to share to the world. With that, I present to you my digital notebook.
 
